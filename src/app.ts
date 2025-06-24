@@ -1,6 +1,8 @@
 import DotEnv from "dotenv";
 DotEnv.config();
 
+//Vamos lá
+
 import express from "express";
 import http from "http";
 import cors from "cors";
